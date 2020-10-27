@@ -4,6 +4,6 @@ public class Tutorial1{
         /*The Devfest is fantastic and coding is awesome
         I wanna be a CS Geek.
         */
-        System.out.println("Hello code");
+        System.out.println("Hello code!");
     }
 }
