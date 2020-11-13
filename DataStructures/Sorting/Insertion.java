@@ -1,6 +1,4 @@
 public class Insertion{
-
-
     void Sort(int arr[]){
         int n= arr.length;
 
